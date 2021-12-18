@@ -1,0 +1,9 @@
+{
+  "engines": {
+    "node": ">=16.1.0"
+  },
+  "dependencies": {
+    "@polkadot/api": "^6.12.1",
+    "@polkadot/keyring": "^8.1.2"
+  }
+}

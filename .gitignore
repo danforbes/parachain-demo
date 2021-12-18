@@ -1,0 +1,8 @@
+/node_modules/
+
+*.log
+
+parachain-collator-spec*
+
+parachain-collator
+polkadot
